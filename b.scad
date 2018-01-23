@@ -12,7 +12,7 @@ ends_distance = 24;
 body_width = 5.5;
 
 lid_axle_length = 3.5;
-lid_axle_diameter = 3.66; // between this (Y axis) and 3.75 (Z axis); I'm picking the narrower measurement
+lid_axle_diameter = 3.66;
 lid_cap_diameter = 4.5;
 lid_cap_length = 1.66;
 lid_cap_bevel_depth = 0.75;
